@@ -7,6 +7,6 @@
 	<classpathentry kind="src" path="WEB-INF/classes"/>
 	<classpathentry kind="src" path="WEB-INF/src"/>
 	<classpathentry output="work" kind="src" path="work"/>
-	<classpathentry kind="lib" path="C:/eclipse/workspace/MIGRATION/WEB-INF/lib/jt400.jar"/>
+	<classpathentry kind="lib" path="C:\Users\fara\Documents\GitHub\javaProject\JavaProject\target\jt400.jar"/>
 	<classpathentry kind="output" path="WEB-INF/classes"/>
 </classpath>
